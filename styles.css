@@ -598,8 +598,8 @@ article {
 .contacts li a.instagram:hover {
   color: dimgrey;
 }
-.contacts li a.skype:hover {
-  color: #00aff0;
+.contacts li a.mail:hover {
+  color: dimgrey;
 }
 .contacts li a.linkedin:hover {
   color: #0077b5;
