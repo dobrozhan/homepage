@@ -619,6 +619,11 @@ article {
   vertical-align: text-bottom;
 }
 
+.summary {
+  font-size: 1.6em;
+  line-height: 1.5em;
+}
+
 @media only screen and (max-width: 767px) {
   .name,
   .job,
